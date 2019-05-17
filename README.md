@@ -1,4 +1,4 @@
-# Adafruit NeoPixel Jewel, 7 NeoPixel
+# Adafruit NeoPixel Jewel containing 7 NeoPixels
 
 <a href="http://www.adafruit.com/products/2226"><img src="assets/image.jpg?raw=true" width="500px"><br/>
 Click here to purchase one from the Adafruit shop</a>
